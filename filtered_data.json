@@ -1,0 +1,15 @@
+[
+  {
+    "region": "경기",
+    "university": "가천대학교",
+    "department": "의예과",
+    "admissionType": "학생부종합전형",
+    "grade2025": "1.6",
+    "grade2024": "1.7",
+    "grade2023": "1.9",
+    "competition2025": "20.4",
+    "competition2024": "22.1",
+    "competition2023": "19.8",
+    "changes": true
+  }
+]
